@@ -1,4 +1,5 @@
 ## 😆 dltmdrbtjd
+## Lee Seung Gyu
 
 Junior software developer
 
