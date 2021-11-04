@@ -5,7 +5,10 @@ Junior software developer
 ### 🧑💻 Tech 
 | Language | Web Front-End |
 | -------- | ------------- |
-| ![a](https://img.shields.io/badge/JavaScript-f7df11?style=flat-square&logo=JavaScript&logoColor=black) ![b](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white) ![c](https://img.shields.io/badge/Go-50BCDF?style=flat-square&logo=go&logoColor=white) |![a](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=black) ![a](https://img.shields.io/badge/Redux-ffffff?style=flat-square&logo=Redux&logoColor=violet) ![a](https://img.shields.io/badge/Vue-41b883?style=flat-square&logo=vue.js&logoColor=white) ![a](https://img.shields.io/badge/Vuex-41b883?style=flat-square&logo=Vuex&logoColor=violet)|
+| ![a](https://img.shields.io/badge/JavaScript-f7df11?style=flat-square&logo=JavaScript&logoColor=black) ![b](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white)|![a](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=black) ![a](https://img.shields.io/badge/Redux-ffffff?style=flat-square&logo=Redux&logoColor=violet)|
+
+### 🚀 Studying  
+  - ![a](https://img.shields.io/badge/Vue-41b883?style=flat-square&logo=vue.js&logoColor=white) ![a](https://img.shields.io/badge/Vuex-41b883?style=flat-square&logo=Vuex&logoColor=violet)  ![c](https://img.shields.io/badge/Go-50BCDF?style=flat-square&logo=go&logoColor=white) 
 
 ### 📠 Contact
 [![monggu.dev@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dltmdrbtjd@gmail.com)](mailto:dltmdrbtjd@gmail.com) : dltmdrbtjd@gmail.com
