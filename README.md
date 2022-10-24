@@ -1,6 +1,6 @@
 ## 😆 dltmdrbtjd
 
-Junior software developer
+Junior developer
 
 ### 🧑💻 Tech 
 | Language | Web Front-End | Web Back-End |
