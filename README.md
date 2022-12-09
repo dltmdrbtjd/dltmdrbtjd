@@ -1,6 +1,6 @@
 ## 😆 dltmdrbtjd
 
-Junior developer
+Junior FrontEnd developer
 
 ### 🧑💻 Tech 
 | Language | Web Front-End | Web Back-End |
